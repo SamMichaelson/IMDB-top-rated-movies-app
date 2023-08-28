@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApiConnection</string>
+    <string name="body_text">This is Body text\t\t</string>
+    <string name="Title">Title</string>
+    <string name="chartRating">ChartRating</string>
+    <string name="title">Title</string>
+    <string name="id">ID</string>
+    <string name="url">Url</string>
+    <string name="year">year</string>
+    <string name="MoviePoster">MoviePoster</string>
+    <string name="top_10_movies_header">Top 10 Movies of All Time</string>
+
+</resources>
